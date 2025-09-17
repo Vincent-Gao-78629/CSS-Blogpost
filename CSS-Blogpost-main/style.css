@@ -7,53 +7,52 @@ body {
 
 .blog {
     background-color: #9ceab5;
-    border-radius: 10px;
     width: 80vw;
     margin: 50px auto;
     padding: 20px 0;
+    border-radius: 10px;
 }
 
 h1 {
     display: block;
-    font-size: 50px;
     width: 75vw;
     margin: 20px auto;
+    font-size: 50px;
 
 }
 
 h2 {
     display: block;
-    font-size: 30px;
     width: 60vw;
     margin: 20px auto;
+    font-size: 30px;
 
 }
 
+
 h3 {
     display: block;
-    font-size: 20px;
     width: 60vw;
     margin: 20px auto;
-
+    font-size: 20px;
 }
 
 .card {
     background-color: #9ceab5;
-    ;
-    border-radius: 20px;
     width: 60vw;
     margin: 0 auto;
+    border-radius: 20px;
 }
 
 .card-image {
-    height: 200px;
-    margin: 0 auto;
     display: block;
+    margin: 0 auto;
+    height: 200px;
 }
 
-.icon {
-    height: 100px;
+.logo {
     position: absolute;
-    top: 200px;
-    left: 20px;
+    top: 50px;
+    right: 150px;
+    width: 100px;
 }
