@@ -1,0 +1,30 @@
+body {
+  background-color: #66bfff
+}
+.blog{
+    color: #433b3e;
+    text-align: center;
+    background-color: #b7efed;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+h2{
+    text-align: center;
+    color: #433b3e;
+}  
+h3{
+    text-align: center;
+    color: #433b3e;
+}
+.card{
+    background-color: #b7efed;
+    border-radius: 10px;
+    margin: 50px;
+}
+.card-image{
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+}
